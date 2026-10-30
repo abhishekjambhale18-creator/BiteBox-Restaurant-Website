@@ -97,7 +97,7 @@ BiteBox-Restaurant-Website/
 │       ├── cart.png
 │       └── footer.png
 └── README.md
-
+```
 ---
 
 ### 🚀 How to Run
