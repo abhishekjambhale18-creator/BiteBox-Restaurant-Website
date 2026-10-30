@@ -73,35 +73,20 @@ It includes Home, Menu, About, Contact, and Cart pages with a working shopping c
 
 ### 📂 Project Structure
 BiteBox-Restaurant-Website
-
 │
-
 ├── index.html
-
 ├── menu.html
-
 ├── about.html
-
 ├── contact.html
-
 ├── cart.html
-
 ├── css/
-
 │   └── style.css
-
 ├── js/
-
 │   └── script.js
-
 ├── assets/
-
 │   ├── images/
-
 │   ├── icons/
-
 │   └── screenshots/
-
 └── README.md
 
 ---
