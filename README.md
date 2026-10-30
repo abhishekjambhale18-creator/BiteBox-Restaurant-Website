@@ -72,21 +72,36 @@ It includes Home, Menu, About, Contact, and Cart pages with a working shopping c
 ---
 
 ### 📂 Project Structure
-BiteBox-Restaurant-Website/
+BiteBox-Restaurant-Website
+
 │
+
 ├── index.html
+
 ├── menu.html
+
 ├── about.html
+
 ├── contact.html
+
 ├── cart.html
+
 ├── css/
+
 │   └── style.css
+
 ├── js/
+
 │   └── script.js
+
 ├── assets/
+
 │   ├── images/
+
 │   ├── icons/
+
 │   └── screenshots/
+
 └── README.md
 
 ---
@@ -98,8 +113,7 @@ BiteBox-Restaurant-Website/
 4. Toggle **Night Mode / Day Mode** from the header
 
 **Live Demo:**  
-`https://abhishekjambhale18-creator.github.io/BiteBox-Restaurant-Website/`  
-*(Enable GitHub Pages after uploading)*
+`https://abhishekjambhale18-creator.github.io/BiteBox-Restaurant-Website`  
 
 ---
 
