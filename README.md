@@ -11,6 +11,7 @@
 ---
 
 ### 📌 Project Overview
+
 **BiteBox** is a full front-end food ordering style website.  
 It includes Home, Menu, About, Contact, and Cart pages with a working shopping cart system using `localStorage`, menu search/filter, order calculations, and a day/night mode toggle.
 
@@ -26,12 +27,12 @@ It includes Home, Menu, About, Contact, and Cart pages with a working shopping c
 - Category filtering
 - Add to Cart with **localStorage**
 - Quantity controls (+ / −)
-- Dynamic Order Summary  
-  - Subtotal  
-  - Delivery charges  
-  - Packaging charges  
-  - Discount  
-  - Total amount  
+- Dynamic Order Summary
+  - Subtotal
+  - Delivery charges
+  - Packaging charges
+  - Discount
+  - Total amount
 - Contact form + business hours section
 - Professional footer with social links and payment icons
 - Clean card-based UI with hover effects
@@ -62,17 +63,19 @@ It includes Home, Menu, About, Contact, and Cart pages with a working shopping c
 
 ### 🛠️ Tech Stack
 
-| Layer        | Technology |
-|--------------|------------|
-| Structure    | HTML5 |
-| Styling      | CSS3 (Flexbox, Grid, Media Queries) |
-| Interactivity| JavaScript (DOM, Events, localStorage) |
-| Fonts        | Google Fonts |
+| Layer | Technology |
+| --- | --- |
+| Structure | HTML5 |
+| Styling | CSS3 (Flexbox, Grid, Media Queries) |
+| Interactivity | JavaScript (DOM, Events, localStorage) |
+| Fonts | Google Fonts |
 
 ---
 
 ### 📂 Project Structure
-BiteBox-Restaurant-Website
+
+```text
+BiteBox-Restaurant-Website/
 │
 ├── index.html
 ├── menu.html
@@ -87,6 +90,12 @@ BiteBox-Restaurant-Website
 │   ├── images/
 │   ├── icons/
 │   └── screenshots/
+│       ├── home.png
+│       ├── menu.png
+│       ├── about.png
+│       ├── contact.png
+│       ├── cart.png
+│       └── footer.png
 └── README.md
 
 ---
